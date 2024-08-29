@@ -1,6 +1,6 @@
 # Natural-Language-Processing
 This repo contain entire guidance and projects from scratch to pro in nlp .
-Roadmap for NLP:
+# Roadmap for NLP:
 1] Programming Language - Python
 2] Text Preprocessing – Tokenaization , limitaization , stemming, stop word
 [aim : cleaning input  and conversion from text to tokens]
